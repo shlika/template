@@ -217,8 +217,7 @@ div#nmb-descBox h1 {
     padding: 0 0 10px;}
 
 ul.nmb-featureList {}
-    div#nmb-descBox ul>li,
-	ul.nmb-featureList li {
+    ul.nmb-featureList li {
         padding: 5px 10px;
         margin: 6px 0px;
         border-bottom: 1px solid #fff;
